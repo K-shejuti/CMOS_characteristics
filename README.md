@@ -16,3 +16,5 @@ Useful commands
 1)Display:This would display all the vectors available for plotting and printing.
 2)Setplot-This would list all the set of plots available for this simulation.
 3)plot-to choose the vector to plot.
+#### 1.1.1 DC sweep on Vgs source for different vds
+
