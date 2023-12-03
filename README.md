@@ -3,4 +3,4 @@ This project has only one motive; that is to experiment with working of a Mosfet
 ## 1.Analysis of Mosfet Models
 ### 1.1 General Mos Analysis
 
-Starting the analysis with Mosfet Model in **sky 130pdk**
+Starting the analysis with Mosfet Model in **sky 130pdk**. below is the schematic created in **Xschem**
