@@ -11,3 +11,8 @@ nfet_01v8.sym - from xschem_sky130 library
 vsource.sym - from xschem devices library
 
 code_shown.sym - from xschem devices library
+We will do Id vs Vgs characteristics for different values of vds and ids vs vds characteristics for different values of vds
+Useful commands
+1)Display:This would display all the vectors available for plotting and printing.
+2)Setplot-This would list all the set of plots available for this simulation.
+3)plot-to choose the vector to plot.
