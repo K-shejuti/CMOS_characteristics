@@ -4,3 +4,5 @@ This project has only one motive; that is to experiment with working of a Mosfet
 ### 1.1 General Mos Analysis
 
 Starting the analysis with Mosfet Model in **sky 130pdk**. Below is the schematic created in **Xschem**. 
+![Screenshot from 2023-12-03 20-07-22](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/0aca716b-b369-4448-8ab6-b641680b5afe)
+
