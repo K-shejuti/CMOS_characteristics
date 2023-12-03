@@ -17,4 +17,6 @@ Useful commands
 2)Setplot-This would list all the set of plots available for this simulation.
 3)plot-to choose the vector to plot.
 #### 1.1.1 DC sweep on Vgs source for different vds
+![Screenshot from 2023-12-03 20-18-10](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/b4d31047-27aa-4582-a2d1-1cd7814c1585)
+
 
