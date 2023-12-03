@@ -19,7 +19,7 @@ Useful commands
 #### 1.1.1 DC sweep on Vgs source for different vds
 ![Screenshot from 2023-12-03 20-40-20](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/c73c799d-b47b-4333-8007-dcabf910810b)
 
-
+We can see the threshold voltage lies between 600mv to 800mv, let us take the threshold to be 0.7v.
 
 Similarly sweeping vds for different vgs
 
