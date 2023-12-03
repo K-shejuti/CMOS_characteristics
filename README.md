@@ -21,12 +21,14 @@ Useful commands
 
 We can see the threshold voltage lies between 600mv to 800mv, let us take the threshold to be 0.7v.
 
-Similarly sweeping vds for different vgs
+#### 1.1.2. Sweep vds for different vds
 
 ![Screenshot from 2023-12-03 20-29-02](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/976b6118-d0b0-4480-b22e-79cd8e5cf60e)
 
-Let us also plot the transconductance of the Mosfet for different values of vds
+Let us also plot the transconductance of the Mosfet for different values of vds.We use deriv() function to find the derivative of current
 ![Screenshot from 2023-12-03 20-49-40](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/d29911a8-501d-4021-8d77-adc796baa16a)
+Now we can plot the output resistance(rds) of the mosfet
+
 
 
 
