@@ -18,6 +18,9 @@ Useful commands
 3)plot-to choose the vector to plot.
 #### 1.1.1 DC sweep on Vgs source for different vds
 ![Screenshot from 2023-12-03 20-22-26](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/77d1bf53-da39-4d5e-9a25-79c744d3508f)
+Similarly sweeping vds for different vgs
+![Screenshot from 2023-12-03 20-29-02](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/976b6118-d0b0-4480-b22e-79cd8e5cf60e)
+
 
 
 
