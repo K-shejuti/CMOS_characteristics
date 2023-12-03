@@ -28,7 +28,10 @@ We can see the threshold voltage lies between 600mv to 800mv, let us take the th
 #### 1.1.3. Plot the transconductance of the Mosfet for different values of vds.
 We use deriv() function to find the derivative of current
 ![Screenshot from 2023-12-03 20-49-40](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/d29911a8-501d-4021-8d77-adc796baa16a)
-Now we can plot the output resistance(rds) of the mosfet
+#### 1.1.4. plot the output resistance(rds) of the mosfet
+![Screenshot from 2023-12-03 21-07-22](https://github.com/K-shejuti/CMOS_characteristics/assets/152790020/d9c01e2f-3381-45a0-8c3f-8bc1cbcbf49c)
+
+
 
 
 
