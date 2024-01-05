@@ -38,7 +38,7 @@ We use deriv() function to find the derivative of current
 
 We can see that, when a square wave is applied to the input of NMOS, when it is LOW(0V), the output goes to HIGH(1.8V). But when the input is HIGH(1.8V), the output goes to a value that is much larger than 0V. This is due to the fact that when Vgs is 1.8V, the NMOS is in linear region. This is where the MOSFET acts as a voltage controlled resistor. At this point, the output is connected to a Voltage Divider Configuration. That is the output takes the value which is defined by the voltage across the resistance of the mosfet. Hence, NMOS is able to transmit STRONG 0, but not a STRONG 1. So NMOS is Strong 0 but a Weak 1
 
-###1.3 Weak 0 Strong 1
+### 1.3 Weak 0 Strong 1
 
 ![Screenshot from 2024-01-05 16-42-34](https://github.com/K-shejuti/MOSFET-_Characteristics/assets/152790020/443ae2fa-862c-441c-b361-3952b1ca8430)
 
